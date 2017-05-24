@@ -34,6 +34,7 @@ public class Rozgrywka extends AppCompatActivity implements View.OnClickListener
         a1 = (Button)findViewById(R.id.button);
         a2 = (Button)findViewById(R.id.button2);
         a3 = (Button)findViewById(R.id.button3);
+        //hello
 
         b1 = (Button)findViewById(R.id.button4);
         b2 = (Button)findViewById(R.id.button5);
